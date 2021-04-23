@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - PowerUp
+  - SceneObjeectChanger
+  - GUI
+  - Enemy
+  - LevelBorderIndicator
+  - Cash
+  - Score
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1688442871
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character
+    uniqueID: 3893436589
+    locked: 0
+  - name: PowerUp
+    uniqueID: 2532701461
+    locked: 0
+  - name: Foreground
+    uniqueID: 501052529
+    locked: 0
+  - name: GUI
+    uniqueID: 469348269
+    locked: 0
